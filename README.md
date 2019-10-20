@@ -1,3 +1,4 @@
 # cwiczenia-devops
 
 witajcie towarzysze :)
+ ......................................
